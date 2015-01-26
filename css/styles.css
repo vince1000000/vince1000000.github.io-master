@@ -1,0 +1,22 @@
+/* GLOBAL */
+body{
+font-family: Verdana, Geneva, sans-serif;	
+}
+
+/* HOME PAGE */
+
+
+/* BIO PAGE */
+.bio h2,
+.bio h3 {
+	font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+.bio h1 {
+text-transform: uppercase;
+letter-spacing: 2px;
+}
+
+
+
+/* STYLE TILE */
