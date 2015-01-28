@@ -1,8 +1,27 @@
 /* GLOBAL */
 body{
-font-family: Verdana, Geneva, sans-serif;	
+font-family: 'Open Sans', sans-serif;	
 }
-
+/* NAV */
+a:link {
+  color: #4AA2D9;
+  text-decoration: none;
+}
+a:visted {
+  color: #F2994B;
+  
+}
+a:focus {
+  border: 2px sold red;
+  
+}
+a:hover {
+  background: #A64826;
+}
+a:active {
+  background: #123159;
+  color: #F2994B
+}
 /* HOME PAGE */
 
 
