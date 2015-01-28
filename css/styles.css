@@ -35,7 +35,27 @@ a:active {
 text-transform: uppercase;
 letter-spacing: 2px;
 }
+article {
+background: red;
+margin: 0 auto;
+width: 1000px;
+}
+header {
+	width: 1000px;
+}
+.col1 .col2, {
+float: left;
 
+}
+.col1 {
+width: 300px;
+}
+col2 {
+width: 700px;
+}
+.clearfix {
+	clear: both;
+}
 
 
 /* STYLE TILE */
